@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470982354580",
+    "firebase_url": "https://medi-shop-007.firebaseio.com",
+    "project_id": "medi-shop-007",
+    "storage_bucket": "medi-shop-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470982354580:android:f64c56a0a5d176471cb681",
+        "android_client_info": {
+          "package_name": "com.ekattorit.medishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470982354580-7sa765minq19lnuir27b20gf8avcb4lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZYgiIE9PjcfT2ENk3gIaxegjB6VXDElc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470982354580-7sa765minq19lnuir27b20gf8avcb4lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

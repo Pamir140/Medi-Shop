@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kicky_Tailor.iml" filepath="$PROJECT_DIR$/.idea/modules/Kicky_Tailor.iml" group="Kicky_Tailor" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Kicky Tailor/app" />
+    </modules>
+  </component>
+</project>
