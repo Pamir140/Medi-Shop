@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kicky_Tailor.iml" filepath="$PROJECT_DIR$/.idea/modules/Kicky_Tailor.iml" group="Kicky_Tailor" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Kicky Tailor/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kicky_Tailor.iml" filepath="$PROJECT_DIR$/.idea/modules/Kicky_Tailor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kicky_Tailor.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kicky_Tailor.app.iml" />
     </modules>
   </component>
 </project>
